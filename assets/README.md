@@ -1,0 +1,1 @@
+Place all the resource files that you need to use in the application inside the ‘assets’ folder.

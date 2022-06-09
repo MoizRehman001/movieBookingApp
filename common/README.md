@@ -1,0 +1,1 @@
+Place all the common elements, components, stylesheets, scripts, etc. inside the ‘common’ folder.
