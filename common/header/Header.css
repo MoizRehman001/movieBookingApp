@@ -1,0 +1,16 @@
+.attribute{
+    background-color: #222;
+    height: 36px;
+    padding: 8px 32px 8px 16px;
+}
+#HeaderImage{
+    background-color:  #ff7f7f;
+    height: 35px;
+    -webkit-animation:spin 8s linear infinite ;
+}
+@-webkit-keyframes spin{
+    100%{-webkit-transform: rotate(360deg);}
+}
+@keyframes spin{
+    100%{-webkit-transform: rotate(360deg);}
+}
